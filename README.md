@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus Klingborg</h1>
-<h3 align="center">A Junior Data Engineer</h3>
+<h3 align="center">A Data Engineer and Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data Engineering as part of Academic Work**
+- 🌱 I’m currently working for PwC Sweden.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
